@@ -5,7 +5,7 @@ namespace PropertySettlementBookingAPI.Model
     public class Booking
     {
         
-        [NotNull]
+        //[NotNull]
         public string BookingTime { get; set; }
         public string Name { get; set; }
     }
